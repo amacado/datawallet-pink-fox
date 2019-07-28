@@ -2,6 +2,8 @@
 ## About
 Sample Vue.js testing application using Datawallet JavaScript SDK (https://github.com/datawallet/pls). 
 
+![Screenshot](/doc/assets/img/login_screen.png?raw=true "")
+
 ## Project setup
 ```
 yarn install
