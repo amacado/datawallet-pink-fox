@@ -1,4 +1,6 @@
 # datawallet-pink-fox
+## About
+Sample Vue.js testing application using Datawallet JavaScript SDK (https://github.com/datawallet/pls). 
 
 ## Project setup
 ```
