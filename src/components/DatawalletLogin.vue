@@ -82,7 +82,7 @@
 
                 const signedQuery = await pls.authorize(
                     {
-                        query: '{ facebook { profile { first_name, last_name }, messages { content, timestamp } } }',
+                        query: '{ facebook { profile { first_name, last_name }, messages { timestamp } } }',
                         shortName: 'Pink Fox',
                         avatarUrl: 'https://via.placeholder.com/88x88.png/d01673/fff/?text=Pink%20Fox'
                     }
