@@ -10,7 +10,7 @@
   "dependencies": {
     "@datawallet/pls": "^1.1.1",
     "apexcharts": "^3.8.3",
-    "bootstrap": "4.2.1",
+    "bootstrap": "4.3.1",
     "bootstrap-material-design": "4.1.1",
     "bootstrap-scss": "^4.3.1",
     "core-js": "^2.6.5",
